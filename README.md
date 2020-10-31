@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**clebsonf/clebsonf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="assets/character_programming.svg" height="300"/>
+</p>
 
-Here are some ideas to get you started:
+# About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on @Pegadas
+### 🌱 I’m currently learning rust
+### 👯 I’m looking to collaborate on web dev.
+### 💬 Ask me about node.js
+### 📫 How to reach me: **clebson.augusto@dcx.ufpb.br**
+### 📎 Linkedin: **https://www.linkedin.com/in/fclebson/**
+
+
+<br/>
+
+# Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=clebsonf"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebsonf&layout=compact"/>
+</p>
