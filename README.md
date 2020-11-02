@@ -1,4 +1,5 @@
 # Hi there 👋
+[![HitCount](http://hits.dwyl.com/clebsonf/clebsonf.svg)](http://hits.dwyl.com/clebsonf/clebsonf)
 
 <p align="center">
     <img src="assets/character_programming.svg" height="300"/>
