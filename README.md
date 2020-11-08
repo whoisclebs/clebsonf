@@ -7,7 +7,7 @@
 # About
 
 ### 🔭 I’m currently working on @Pegadas
-### 🌱 I’m currently learning rust
+### 🌱 I’m currently learning rust, webassembly and mobile development. 
 ### 👯 I’m looking to collaborate on web dev and android projects.
 ### 💬 Ask me about node.js
 ### 📫 How to reach me: **clebson.augusto@dcx.ufpb.br**
