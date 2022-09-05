@@ -6,9 +6,8 @@
 
 # About
 
-### 🔭 I’m currently working on @Pegadas
-### 🌱 I’m currently learning rust, webassembly and mobile development. 
-### 👯 I’m looking to collaborate on web dev,microservices and android projects.
+### 🔭 I’m currently working on @Ledthinking
+### 🌱 I’m currently learning Clean architecture, web3.0 and webassembly. 
 ### 💬 Ask me about node.js
 ### 📫 How to reach me: **clebson.augusto@dcx.ufpb.br**
 ### 📎 Linkedin: **https://www.linkedin.com/in/fclebson/**
