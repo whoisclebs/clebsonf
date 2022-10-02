@@ -17,11 +17,11 @@
 
 # Stats
 <p align=center >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clebsonf" />
-<img src="https://github-readme-stats.vercel.app/api?username=clebsonf&show_icons=true&locale=en" alt="aakankshabhende" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clebsonf&theme=shades-of-purple" />
+<img src="https://github-readme-stats.vercel.app/api?username=clebsonf&show_icons=true&theme=shades-of-purple" alt="clebsonf" />
 </p>
 <p align=center >
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=clebsonf&exclude_repo=CodeCrush&hide=HTML&show_icons=true&locale=en&layout=compact" alt="aakankshabhende" /></p>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=clebsonf&exclude_repo=CodeCrush&hide=HTML&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="clebsonf" /></p>
 <br/>
 <p align=center >
 </p>
