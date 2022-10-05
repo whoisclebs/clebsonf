@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="assets/character_programming.svg">
 
 #### 🔭 I'm currently working at @Ledthinking and at @LedthinkingAcademy
-#### 🌱 I’m currently learning Clean architecture, web3.0 and webassembly. 
+#### 🌱 I’m currently learning Clean architecture, web3.0, webassembly and japanese. 
 #### 💬 Ask me about anything [here](https://github.com/clebsonf/clebsonf/discussions).
 #### 📫 How to reach me: **clebson.augusto@dcx.ufpb.br**
 #### 📎 Linkedin: **https://www.linkedin.com/in/fclebson/**
