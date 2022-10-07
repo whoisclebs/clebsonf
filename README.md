@@ -36,6 +36,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [List of repositories to contribute to Hacktoberfest — Hacktoberfest part 1](https://clebs.dev/list-of-repositories-to-contribute-to-hacktoberfest-hacktoberfest-part-1-c2c798abedb8?source=rss----ca1380600961---4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
