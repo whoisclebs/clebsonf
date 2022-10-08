@@ -19,8 +19,8 @@
 
 # Stats
 <p align=center >
-<img widht="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=clebsonf&theme=shades-of-purple" />
-<img widht="50%" src="https://github-readme-stats-one-bice.vercel.app/api?username=clebsonf&show_icons=true&theme=shades-of-purple&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="clebsonf" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=clebsonf&theme=shades-of-purple" />
+<img width="400" src="https://github-readme-stats-one-bice.vercel.app/api?username=clebsonf&show_icons=true&theme=shades-of-purple&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="clebsonf" />
 </p>
 
 <br/>
