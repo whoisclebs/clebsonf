@@ -20,7 +20,7 @@
 # Stats
 <p align=center >
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=clebsonf&theme=shades-of-purple" />
-<img width="400" src="https://github-readme-stats-one-bice.vercel.app/api?username=clebsonf&show_icons=true&theme=shades-of-purple&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="clebsonf" />
+<img width="400" src="https://github-readme-stats-one-bice.vercel.app/api?username=clebsonf&show_icons=true&theme=shades-of-purple&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true" alt="clebsonf" />
 </p>
 
 <img align="right"  width="150" src="https://user-images.githubusercontent.com/43012757/196444574-e876ac7d-ad07-4b50-8da2-a7cad21fe2be.png">
