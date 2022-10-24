@@ -43,3 +43,13 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/clebsonf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="clebsonf" /></a></p><br><br>
+
+### :octopus: Octo-Ring
+
+<img width="64" height="65" src="https://octo-ring.com/static/img/octo.png" align="right" alt="">
+
+I'm a member of [Octo-Ring](https://octo-ring.com/) - a webring (remember those?) for github user profiles. Because why wouldn't I? 
+
+* [previous profile](https://octo-ring.com/p/clebsonf/prev)
+* [random profile](https://octo-ring.com/p/clebsonf/random)
+* [next profile](https://octo-ring.com/p/clebsonf/next)
