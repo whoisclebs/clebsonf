@@ -10,7 +10,7 @@
  
  `💬` Ask me about anything [here](https://github.com/clebsonf/clebsonf/discussions).
  
- `📫` How to reach me: **clebson.augusto@dcx.ufpb.br**
+ `📫` How to reach me: **clebson.augusto@dcx.ufpb.br** and **https://clebson.cc**
  
  `📎` Linkedin: **https://www.linkedin.com/in/clebsonf/**
  
