@@ -12,7 +12,7 @@
  
  `📫` How to reach me: **clebson.augusto@dcx.ufpb.br**
  
- `📎` Linkedin: **https://www.linkedin.com/in/fclebson/**
+ `📎` Linkedin: **https://www.linkedin.com/in/clebsonf/**
  
  `👷` I'm a maintainer of an open source community: <a href="https://github.com/OctobearHub">Octobear hub</a>
 
