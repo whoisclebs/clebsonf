@@ -38,6 +38,10 @@
 - [Kotlin: The Revolutionary Language Taking the Software World by Storm](https://medium.com/bit-in-the-dust/kotlin-the-revolutionary-language-taking-the-software-world-by-storm-5a8f9d02c70?source=rss-45bd56d7bf6d------2)
 - [Understanding Pipes in Angular: A Guide for Beginners](https://blog.ecma.today/understanding-pipes-in-angular-a-guide-for-beginners-6175fb132632?source=rss-45bd56d7bf6d------2)
 - [Understanding Technical Debt: What It Is and How to Manage It](https://medium.com/code-journal/understanding-technical-debt-what-it-is-and-how-to-manage-it-b6c739f31db5?source=rss-45bd56d7bf6d------2)
+- [Angular Applications Made Easy: A Guide to Organizing Your Codebase](https://blog.ecma.today/angular-applications-made-easy-a-guide-to-organizing-your-codebase-1b2f9518bd39?source=rss-45bd56d7bf6d------2)
+- [Everything you need to know about Microsoft’s App Center](https://blog.ecma.today/everything-you-need-to-know-about-microsofts-app-center-638bd87ac488?source=rss-45bd56d7bf6d------2)
+- [Adding Tailwind CSS to your Next.js v13 project: Practical guide](https://blog.ecma.today/adding-tailwind-css-to-your-next-js-v13-project-practical-guide-50caf8dd0d86?source=rss-45bd56d7bf6d------2)
+- [Understanding objects in javascript — Part 1](https://blog.ecma.today/understanding-objects-in-javascript-part-1-5c7d5f183410?source=rss-45bd56d7bf6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Support:</h2>
