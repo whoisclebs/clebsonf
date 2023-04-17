@@ -34,7 +34,10 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [List of repositories to contribute to Hacktoberfest — Hacktoberfest part 1](https://clebs.dev/list-of-repositories-to-contribute-to-hacktoberfest-hacktoberfest-part-1-c2c798abedb8?source=rss----ca1380600961---4)
+- [Challenge: Let’s reach 100 followers each on Medium together!](https://clebson.medium.com/challenge-lets-reach-100-followers-each-on-medium-together-6b7d5c4c937e?source=rss-45bd56d7bf6d------2)
+- [Kotlin: The Revolutionary Language Taking the Software World by Storm](https://medium.com/bit-in-the-dust/kotlin-the-revolutionary-language-taking-the-software-world-by-storm-5a8f9d02c70?source=rss-45bd56d7bf6d------2)
+- [Understanding Pipes in Angular: A Guide for Beginners](https://blog.ecma.today/understanding-pipes-in-angular-a-guide-for-beginners-6175fb132632?source=rss-45bd56d7bf6d------2)
+- [Understanding Technical Debt: What It Is and How to Manage It](https://medium.com/code-journal/understanding-technical-debt-what-it-is-and-how-to-manage-it-b6c739f31db5?source=rss-45bd56d7bf6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Support:</h2>
