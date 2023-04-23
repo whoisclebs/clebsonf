@@ -13,4 +13,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@v1
               with: 
                 max_post_count: "8"
-                feed_list: "https://clebson.medium.com/feed"
+                feed_list: "https://medium.com/@clebson/feed"
