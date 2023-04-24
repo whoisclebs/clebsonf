@@ -34,14 +34,14 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Breaking Down User Experience: An Atomic Approach to Software Interface Design](https://medium.com/bit-in-the-dust/breaking-down-user-experience-an-atomic-approach-to-software-interface-design-29234b6b8ed9?source=rss-45bd56d7bf6d------2)
+- [Lighthouse Case Study — clebson.cc](https://medium.com/dont-stop-me-now/lighthouse-case-study-clebson-cc-518903e3ed0a?source=rss-45bd56d7bf6d------2)
 - [The Fine Art of Napping: How I Became a Professional Napper [Satire]](https://medium.com/trashin-it/the-fine-art-of-napping-how-i-became-a-professional-napper-satire-70f1a717bd8d?source=rss-45bd56d7bf6d------2)
 - [Fast Value Delivery: The Key to Success in Agile Projects](https://medium.com/bit-in-the-dust/fast-value-delivery-the-key-to-success-in-agile-projects-e42c36eec652?source=rss-45bd56d7bf6d------2)
 - [The Art of Procrastination: How I Mastered the Art of Delaying Tasks](https://medium.com/trashin-it/the-art-of-procrastination-how-i-mastered-the-art-of-delaying-tasks-77d52d0e7b7c?source=rss-45bd56d7bf6d------2)
 - [Hackathon — Engaging Experiences of Innovation and Collaboration](https://medium.com/bit-in-the-dust/hackathon-engaging-experiences-of-innovation-and-collaboration-3fecc5a4790f?source=rss-45bd56d7bf6d------2)
 - [Level Up Your Creativity and Write Posts That Will Warp Your Readers’ Minds!](https://medium.com/dont-stop-me-now/level-up-your-creativity-and-write-posts-that-will-warp-your-readers-minds-8b7a610d2e9a?source=rss-45bd56d7bf6d------2)
 - [Challenge: Let’s reach 100 followers each on Medium together!](https://medium.com/dont-stop-me-now/challenge-lets-reach-100-followers-each-on-medium-together-6b7d5c4c937e?source=rss-45bd56d7bf6d------2)
-- [Kotlin: The Revolutionary Language Taking the Software World by Storm](https://medium.com/bit-in-the-dust/kotlin-the-revolutionary-language-taking-the-software-world-by-storm-5a8f9d02c70?source=rss-45bd56d7bf6d------2)
-- [Understanding Pipes in Angular: A Guide for Beginners](https://blog.ecma.today/understanding-pipes-in-angular-a-guide-for-beginners-6175fb132632?source=rss-45bd56d7bf6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Support:</h2>
