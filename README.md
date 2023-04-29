@@ -34,6 +34,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building High-Quality Software:](https://blog.bitd.today/building-high-quality-software-b82e27b99534?source=rss-45bd56d7bf6d------2)
 - [Organize an Innovative Hackathon in Partnership with Bitd](https://blog.bitd.today/organize-an-innovative-hackathon-in-partnership-with-bitd-ff13e7964900?source=rss-45bd56d7bf6d------2)
 - [Understanding Technical Debt: Definition, Types, and Impacts](https://blog.bitd.today/understanding-technical-debt-definition-types-and-impacts-990c19a16d09?source=rss-45bd56d7bf6d------2)
 - [Breaking Down User Experience: An Atomic Approach to Software Interface Design](https://blog.bitd.today/breaking-down-user-experience-an-atomic-approach-to-software-interface-design-29234b6b8ed9?source=rss-45bd56d7bf6d------2)
@@ -41,7 +42,6 @@
 - [The Fine Art of Napping: How I Became a Professional Napper [Satire]](https://medium.com/trashin-it/the-fine-art-of-napping-how-i-became-a-professional-napper-satire-70f1a717bd8d?source=rss-45bd56d7bf6d------2)
 - [Fast Value Delivery: The Key to Success in Agile Projects](https://blog.bitd.today/fast-value-delivery-the-key-to-success-in-agile-projects-e42c36eec652?source=rss-45bd56d7bf6d------2)
 - [The Art of Procrastination: How I Mastered the Art of Delaying Tasks](https://medium.com/trashin-it/the-art-of-procrastination-how-i-mastered-the-art-of-delaying-tasks-77d52d0e7b7c?source=rss-45bd56d7bf6d------2)
-- [Hackathon — Engaging Experiences of Innovation and Collaboration](https://blog.bitd.today/hackathon-engaging-experiences-of-innovation-and-collaboration-3fecc5a4790f?source=rss-45bd56d7bf6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Support:</h2>
