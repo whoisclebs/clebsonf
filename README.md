@@ -34,7 +34,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building High-Quality Software:](https://blog.bitd.today/building-high-quality-software-b82e27b99534?source=rss-45bd56d7bf6d------2)
+- [Building High-Quality Software](https://blog.bitd.today/building-high-quality-software-b82e27b99534?source=rss-45bd56d7bf6d------2)
 - [Organize an Innovative Hackathon in Partnership with Bitd](https://blog.bitd.today/organize-an-innovative-hackathon-in-partnership-with-bitd-ff13e7964900?source=rss-45bd56d7bf6d------2)
 - [Understanding Technical Debt: Definition, Types, and Impacts](https://blog.bitd.today/understanding-technical-debt-definition-types-and-impacts-990c19a16d09?source=rss-45bd56d7bf6d------2)
 - [Breaking Down User Experience: An Atomic Approach to Software Interface Design](https://blog.bitd.today/breaking-down-user-experience-an-atomic-approach-to-software-interface-design-29234b6b8ed9?source=rss-45bd56d7bf6d------2)
