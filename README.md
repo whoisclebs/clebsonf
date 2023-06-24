@@ -36,6 +36,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install NVM and Node.js: A Step-by-Step Guide](https://medium.com/@clebson/how-to-install-nvm-and-node-js-a-step-by-step-guide-93fc15fd0e27?source=rss-45bd56d7bf6d------2)
 - [Building High-Quality Software](https://blog.bitd.today/building-high-quality-software-b82e27b99534?source=rss-45bd56d7bf6d------2)
 - [Organize an Innovative Hackathon in Partnership with Bitd](https://blog.bitd.today/organize-an-innovative-hackathon-in-partnership-with-bitd-ff13e7964900?source=rss-45bd56d7bf6d------2)
 - [Understanding Technical Debt: Definition, Types, and Impacts](https://blog.bitd.today/understanding-technical-debt-definition-types-and-impacts-990c19a16d09?source=rss-45bd56d7bf6d------2)
@@ -43,7 +44,6 @@
 - [Lighthouse Case Study — clebson.cc](https://medium.com/dont-stop-me-now/lighthouse-case-study-clebson-cc-518903e3ed0a?source=rss-45bd56d7bf6d------2)
 - [The Fine Art of Napping: How I Became a Professional Napper [Satire]](https://medium.com/trashin-it/the-fine-art-of-napping-how-i-became-a-professional-napper-satire-70f1a717bd8d?source=rss-45bd56d7bf6d------2)
 - [Fast Value Delivery: The Key to Success in Agile Projects](https://blog.bitd.today/fast-value-delivery-the-key-to-success-in-agile-projects-e42c36eec652?source=rss-45bd56d7bf6d------2)
-- [The Art of Procrastination: How I Mastered the Art of Delaying Tasks](https://medium.com/trashin-it/the-art-of-procrastination-how-i-mastered-the-art-of-delaying-tasks-77d52d0e7b7c?source=rss-45bd56d7bf6d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Support:</h2>
